@@ -4,7 +4,7 @@ const referrals = {
     {
       "name": "Binance",
       "description": "Get 50% fee kickback on each trade.",
-      "url": "https://www.binance.com/en/activity/referral-entry?ref=YOURCODE"
+      "url": "https://www.binance.com/en/activity/referral-entry?ref=CPA_002BPQM9OH"
     },
     {
       "name": "Kraken", 
